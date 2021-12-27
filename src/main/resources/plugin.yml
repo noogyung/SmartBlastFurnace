@@ -1,0 +1,7 @@
+name: SmartBlastFurnace
+version: '${project.version}'
+main: me.noogs.smartblastfurnace
+api-version: 1.18
+author: [ Noogs ]
+description: Smart Blast Furnace Plugin
+
