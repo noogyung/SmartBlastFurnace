@@ -27,8 +27,7 @@ public final class smartblastfurnace extends JavaPlugin {
 
         //getCommand("smartbf").setExecutor(new smartbfCommands());
 
-        //Event
-
+        Recipe.init();
     }
 
     @Override
