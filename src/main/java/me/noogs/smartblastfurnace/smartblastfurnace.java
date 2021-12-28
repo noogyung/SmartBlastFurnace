@@ -1,6 +1,8 @@
-package me.noogs;
+package me.noogs.smartblastfurnace;
+
 
 import org.bukkit.configuration.file.FileConfiguration;
+
 import org.bukkit.plugin.java.JavaPlugin;
 
 import java.io.File;
@@ -36,4 +38,6 @@ public final class smartblastfurnace extends JavaPlugin {
     }
 
     public static smartblastfurnace getPlugin(){return plugin;}
+
+
 }
